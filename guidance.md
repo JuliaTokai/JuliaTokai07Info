@@ -51,6 +51,7 @@ Note:
 ## 本日の発表
 
 + antimon2: Broadcasting 入門(予定)
++ たつおか: Juliaのお手軽並列処理 (予定)
 + …
 
 ---
