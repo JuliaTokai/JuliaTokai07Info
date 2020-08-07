@@ -52,7 +52,7 @@ Note:
 
 + antimon2: Broadcasting 入門(予定)
 + たつおか: Juliaのお手軽並列処理 (予定)
-+ …
++ ごまふあざらし: [Dash.jl で遊ぼう](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/dash/build)
 
 ---
 
