@@ -50,7 +50,7 @@ Note:
 
 ## 本日の発表
 
-+ antimon2: Broadcasting 入門(予定)
++ antimon2: [Broadcasting 入門](https://hackmd.io/@antimon2/BJYf_6cbP)
 + たつおか: Juliaのお手軽並列処理 (予定)
 + ごまふあざらし: [Dash.jl で遊ぼう](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/dash/build)
 
